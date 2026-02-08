@@ -691,6 +691,6 @@ chmod +x build_macos.sh
 本仓库采用 **GPLv3** 发布。详见 [LICENSE](LICENSE)。
 
 - **开源使用**：依 GPLv3 复制、修改与分发；分发修改版须同样以 GPLv3 开放源码。
-- **闭源/商用修改**：若修改本编译器并以闭源形式发布或商用，须向版权方取得**商业授权并支付授权费**。联系：**moon-lang.com**。
+- **闭源/商用修改**：若修改本编译器并以闭源形式发布或商用，须向版权方取得**商业授权并支付授权费**。联系：**forkp@greenteng.com**。
 
 Copyright (c) 2026 moon-lang.com

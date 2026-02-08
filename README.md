@@ -690,6 +690,6 @@ Output is under `build/macos_build/`. If OpenSSL is not installed or you use `--
 This project is under **GNU General Public License v3.0 (GPLv3)**. See [LICENSE](LICENSE).
 
 - **Open-source use**: You may copy, modify, and distribute under GPLv3; modified versions must be released under GPLv3 with source.
-- **Proprietary / commercial use of modified compiler**: If you **modify this compiler and distribute or use it in closed-source or commercial form**, you must obtain a **commercial license and pay the applicable fee** from the copyright holder. Contact: **moon-lang.com**.
+- **Proprietary / commercial use of modified compiler**: If you **modify this compiler and distribute or use it in closed-source or commercial form**, you must obtain a **commercial license and pay the applicable fee** from the copyright holder. Contact: **forkp@greenteng.com**.
 
 Copyright (c) 2026 moon-lang.com
